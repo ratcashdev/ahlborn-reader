@@ -8,8 +8,8 @@ The midi signals are sent over channel 10.
 
 
 **Links:**
-https://www.ti.com/lit/ds/symlink/cd4021b-q1.pdf
-http://pdf.datasheetcatalog.com/datasheet/philips/HEF4006BN.pdf
+* https://www.ti.com/lit/ds/symlink/cd4021b-q1.pdf
+* http://pdf.datasheetcatalog.com/datasheet/philips/HEF4006BN.pdf
 
 
 **NOTE:**
