@@ -1,4 +1,4 @@
-h1. Ahlborn Preludium II pedalboard reader for Arduino
+# Ahlborn Preludium II pedalboard reader for Arduino
 
 Arduino project to read signals sent by the Ahlborn Preludium II pedalboard and convert them to regular USB Midi signals so that it is usable with SW like GrandOrgue or Hauptwerk.
 Requires an Atmega 32u4 board (Leonardo, Beetle etc.)
