@@ -1,5 +1,5 @@
 //**************************************************************//
-//  Name    : Ahlbordn 30-ntoe PedalBoard MIDI interface        //
+//  Name    : Ahlborn 30-note PedalBoard MIDI interface         //
 //  Author  : ratcashdev                                        //
 //  Date    : 1 Match, 2020                                     //
 //  Version : 1.0                                               //
